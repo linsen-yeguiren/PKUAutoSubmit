@@ -2,7 +2,7 @@
 PKU一键出入校备案小工具 v2.1 (2020.10.13)
 
 为作者的第一个 `selenium` 练手小项目，完善程度较低，欢迎任意类型的使用与开发改进
-//大佬nb
+大佬nb
 
 
 **Note:** 本项目的[GitHub自动运行版本](https://github.com/YOUSIKI/PKUAutoSubmit)由 YOUSIKI 大佬开发
